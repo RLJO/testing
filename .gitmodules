@@ -7,3 +7,8 @@
 	path = CLVsol/clvsol_odoo_addons
 	url = git@github.com:CLVsol/clvsol_odoo_addons.git
 	branch = 12.0
+
+[submodule "CLVsol/clvsol_odoo_addons7"]
+	path = CLVsol/clvsol_odoo_addons7
+	url = git@github.com:CLVsol/clvsol_odoo_addons.git
+	branch = 12.0
