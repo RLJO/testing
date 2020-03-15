@@ -17,3 +17,8 @@
 	path = CLVsol/clvsol_odoo_addons_mfmng
 	url = git@github.com:CLVsol/clvsol_odoo_addons_mfmng.git
 	branch = 12.0
+
+[submodule "CLVsol/clvsol_odoo_addons_jcafb"]
+	path = CLVsol/clvsol_odoo_addons_jcafb
+	url = git@github.com:CLVsol/clvsol_odoo_addons_jcafb.git
+	branch = 12.0
