@@ -1,0 +1,4 @@
+[submodule "NewRL/YK"]
+	path = NewRL/YK
+	url = git@github.com:NewRL/YK.git
+	branch = master
