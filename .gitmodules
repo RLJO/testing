@@ -27,3 +27,7 @@
 	path = RLCO/qw
 	url = git@github.com:RLCO/qw.git
 	branch = master
+[submodule "clvsol_odoo_addons_jcafb"]
+	path = clvsol_odoo_addons_jcafb
+	url = https://github.com/CLVsol/clvsol_odoo_addons_jcafb.git
+	branch = 12.0
