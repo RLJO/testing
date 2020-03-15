@@ -1,0 +1,33 @@
+[submodule "mtc-jordan/flexipharmacy-odoo"]
+	path = mtc-jordan/flexipharmacy-odoo
+	url = git@github.com:mtc-jordan/flexipharmacy-odoo.git
+	branch = master
+
+[submodule "CLVsol/clvsol_odoo_addons"]
+	path = CLVsol/clvsol_odoo_addons
+	url = git@github.com:CLVsol/clvsol_odoo_addons.git
+	branch = 12.0
+
+[submodule "CLVsol/clvsol_odoo_addons7"]
+	path = CLVsol/clvsol_odoo_addons7
+	url = git@github.com:CLVsol/clvsol_odoo_addons.git
+	branch = 12.0
+
+[submodule "CLVsol/clvsol_odoo_addons_mfmng"]
+	path = CLVsol/clvsol_odoo_addons_mfmng
+	url = git@github.com:CLVsol/clvsol_odoo_addons_mfmng.git
+	branch = 12.0
+
+[submodule "CLVsol/clvsol_odoo_addons_jcafb"]
+	path = CLVsol/clvsol_odoo_addons_jcafb
+	url = git@github.com:CLVsol/clvsol_odoo_addons_jcafb.git
+	branch = 12.0
+
+[submodule "RLCO/qw"]
+	path = RLCO/qw
+	url = git@github.com:RLCO/qw.git
+	branch = master
+[submodule "clvsol_odoo_addons_jcafb"]
+	path = clvsol_odoo_addons_jcafb
+	url = https://github.com/CLVsol/clvsol_odoo_addons_jcafb.git
+	branch = 12.0
