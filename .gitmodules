@@ -2,3 +2,8 @@
 	path = falconsoft3d/whatsapp_odoo_pro
 	url = git@github.com:falconsoft3d/whatsapp_odoo_pro.git
 	branch = 13.0
+
+[submodule "falconsoft3d/whatsapp_odoo_prof"]
+	path = falconsoft3d/whatsapp_odoo_prof
+	url = git@github.com:falconsoft3d/whatsapp_odoo_pro.git
+	branch = 13.0
