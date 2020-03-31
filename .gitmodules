@@ -12,3 +12,8 @@
 	path = log2
 	url = git@github.com:RLCO/log2.git
 	branch = master
+
+[submodule "shipping"]
+	path = shipping
+	url = git@github.com:RLCO/Multti-RL.git
+	branch = Shipping
