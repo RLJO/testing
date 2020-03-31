@@ -7,3 +7,8 @@
 	path = logistic
 	url = git@github.com:RLJO/logistic.git
 	branch = master
+
+[submodule "log2"]
+	path = log2
+	url = git@github.com:RLCO/log2.git
+	branch = master
