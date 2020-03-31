@@ -2,3 +2,8 @@
 	path = NewRL/YK
 	url = git@github.com:NewRL/YK.git
 	branch = master
+
+[submodule "logistic"]
+	path = logistic
+	url = git@github.com:RLJO/logistic.git
+	branch = master
