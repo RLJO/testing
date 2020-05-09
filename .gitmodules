@@ -7,3 +7,8 @@
 	path = RL-OtherApps/github_odoo_apps
 	url = git@github.com:RL-OtherApps/github_odoo_apps.git
 	branch = 12.0
+
+[submodule "RL-OtherApps/wordpress"]
+	path = RL-OtherApps/wordpress
+	url = git@github.com:RL-OtherApps/wordpress.git
+	branch = master
