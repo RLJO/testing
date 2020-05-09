@@ -12,3 +12,8 @@
 	path = xmarts/carpeta_reporte_inventarioh
 	url = git@github.com:xmarts/carpeta_reporte_inventario.git
 	branch = master
+
+[submodule "RL-OtherApps/wordpress"]
+	path = RL-OtherApps/wordpress
+	url = git@github.com:RL-OtherApps/wordpress.git
+	branch = master
