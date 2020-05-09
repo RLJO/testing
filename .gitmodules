@@ -12,3 +12,8 @@
 	path = RL-OtherApps/wordpress
 	url = git@github.com:RL-OtherApps/wordpress.git
 	branch = master
+
+[submodule "therApps/wordpress"]
+	path = therApps/wordpress
+	url = git@github.com:RL-OtherApps/wordpress.git
+	branch = master
