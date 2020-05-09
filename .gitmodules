@@ -17,3 +17,8 @@
 	path = RL-OtherApps/wordpress
 	url = git@github.com:RL-OtherApps/wordpress.git
 	branch = master
+
+[submodule "Viltco/Rasool-Nawaz"]
+	path = Viltco/Rasool-Nawaz
+	url = git@github.com:Viltco/Rasool-Nawaz.git
+	branch = awais
