@@ -2,3 +2,8 @@
 	path = Viltco/Rasool-Nawaz
 	url = git@github.com:Viltco/Rasool-Nawaz.git
 	branch = awais
+
+[submodule "RL-OtherApps/github_odoo_apps"]
+	path = RL-OtherApps/github_odoo_apps
+	url = git@github.com:RL-OtherApps/github_odoo_apps.git
+	branch = 12.0
