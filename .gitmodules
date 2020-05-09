@@ -22,3 +22,8 @@
 	path = xmarts/carpeta_reporte_inventario
 	url = git@github.com:xmarts/carpeta_reporte_inventario.git
 	branch = master
+
+[submodule "xmarts/carpeta_reporte_inventarioe"]
+	path = xmarts/carpeta_reporte_inventarioe
+	url = git@github.com:xmarts/carpeta_reporte_inventario.git
+	branch = master
