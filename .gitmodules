@@ -1,0 +1,4 @@
+[submodule "xmarts/carpeta_reporte_inventario"]
+	path = xmarts/carpeta_reporte_inventario
+	url = git@github.com:xmarts/carpeta_reporte_inventario.git
+	branch = master
