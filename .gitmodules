@@ -7,3 +7,8 @@
 	path = xmarts/fields_functions_jarochito
 	url = git@github.com:xmarts/fields_functions_jarochito.git
 	branch = 12.0
+
+[submodule "xmarts/carpeta_reporte_inventarioh"]
+	path = xmarts/carpeta_reporte_inventarioh
+	url = git@github.com:xmarts/carpeta_reporte_inventario.git
+	branch = master
